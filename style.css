@@ -1,0 +1,56 @@
+body{
+text-align:center;
+margin:0;
+padding-top:800px;    
+}
+.profile{
+width:200px;
+border-radius:55%
+}
+#welcome {
+position:absolute;
+overflow:hidden;
+height:800px;
+color:rebeccapurple; 
+left:0;
+top:0;
+right:0;
+opacity:0.83;
+background:linear-gradient(red 20%,orange );
+width:100%
+height:100%    
+}
+h1 {
+font-size:40px;
+font-family:fantasy;
+font-weight:300;    
+} 
+#name{
+font-size:20px;
+font-family:fantasy;    
+}
+h2{
+font-size:30px;
+font-family:fantasy;    
+}
+#by{
+text-align:center
+font-size:40px;
+padding:50px;    
+}
+.line{
+background-color:aqua;
+width:70px;
+height:10px;
+margin:8px auto;     
+}
+p{
+font-size:27px;
+color:aquamarine;
+margin:25px auto;     
+}
+.parallax-inner{
+text-align:center;
+vertical-align:middle;
+position:relative;    
+}
